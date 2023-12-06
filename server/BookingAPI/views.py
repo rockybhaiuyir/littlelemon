@@ -18,8 +18,7 @@ def BookTime(request):
         subject = 'Little Lemon Reservation'
         message = """Hi {},
 
-Thank you for booking a reservation at Little Lemon. Unfortunately, this restaurant (and by proxy, your booking here) isn't real.
-The website and its functionalities was made by Shiwei (https://github.com/aprilschen). Go and follow him/her!
+Thank you for booking a reservation at Little Lemon.
 
 
 Your reservation information is as follows:
